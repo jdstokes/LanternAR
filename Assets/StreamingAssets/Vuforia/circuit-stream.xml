@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="colemanlamp" size="0.300000 0.300000" />
+    <ImageTarget name="one-mantle-kerosene-lantern-1-640x640" size="0.300000 0.300000" />
+    <ImageTarget name="boiler-control-panels-500x500" size="0.300000 0.300000" />
+    <ImageTarget name="star-wars" size="1.000000 0.566474" />
+    <ImageTarget name="IMG_20190610_155242_small" size="1.000000 1.333333" />
+    <ImageTarget name="maxresdefault" size="1.000000 0.562500" />
+  </Tracking>
+</QCARConfig>
